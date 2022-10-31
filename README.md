@@ -17,7 +17,7 @@ Para fim de testes, foram criados 4 usuários, sendo:
 
 1 usuário estagiário(GRP_EST): Juca.
 
-A gerencia e os funcionários tem acesso acesso total aos arquivos no servidor. Já o estagiário pode somente ler e executar arquivos, mas não pode realizar nenhum tipo de alteração.
+Os funcionários tem acesso acesso total aos arquivos no servidor. Já o estagiário pode somente ler e executar arquivos, mas não pode realizar nenhum tipo de alteração.
 
 ## O Script
 
