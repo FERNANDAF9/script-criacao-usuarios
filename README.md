@@ -7,7 +7,7 @@ Nesse script, toda a infraestrutura de usuários, grupos de usuários, diretóri
 
 ## O projeto
 
-O projeto simula um ambiente de empresa, na qual há vários usuários de diferentes funcionários, cada qual com suas permissões. todos os arquivos dos funcionários ficam salvos de forma centralizada em um servidor linux, e não na máquina local do funcionário. Além disso, é possível administrar regras de acesso dos usuários, isto é, que tipo de dados eles podem ou não ter acesso.
+O projeto simula um ambiente de empresa, na qual há vários usuários de diferentes funcionários, cada qual com suas permissões. Todos os arquivos dos funcionários ficam salvos de forma centralizada em um servidor linux, e não na máquina local do funcionário. Além disso, é possível administrar regras de acesso dos usuários, isto é, que tipo de dados eles podem ou não ter acesso.
 
 ## Os usuários
 
